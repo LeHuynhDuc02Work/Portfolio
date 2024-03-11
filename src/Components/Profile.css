@@ -1,0 +1,24 @@
+.Profile-container {
+    width: 50%;
+    margin: 10px auto;
+}
+
+.Profile-avatar {
+    border-radius: 50%;
+}
+
+.Profile-avatar > img {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.Profile-list {
+    list-style: none;
+    padding: 0;
+}
+
+.Profile-listitem {
+    display: flex;
+    justify-content: space-between;
+}
+
